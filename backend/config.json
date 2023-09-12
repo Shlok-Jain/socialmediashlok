@@ -1,0 +1,4 @@
+{
+    "host_client":"http://localhost:3000",
+    "host_server":"http://localhost:5000"
+}
